@@ -1,0 +1,10 @@
+com\alba\productservice\ProductServiceApplication.class
+com\alba\productservice\model\Product$ProductBuilder.class
+com\alba\productservice\model\Product.class
+com\alba\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\alba\productservice\dto\ProductResponse.class
+com\alba\productservice\controller\ProductController.class
+com\alba\productservice\repo\ProductRepository.class
+com\alba\productservice\service\ProductService.class
+com\alba\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\alba\productservice\dto\ProductRequest.class

@@ -1,0 +1,8 @@
+
+=
+java:S1170"!Make this final field static too.(ñ°™-8·Ûÿ²ñ1
+}
+java:S1128
+"`Remove this unused import 'org.springframework.http.client.reactive.ReactorClientHttpConnector'.(ñìß8§¯§¸ñ1
+c
+java:S1128"ARemove this unused import 'reactor.netty.http.client.HttpClient'.(§¡•‡ûÿÿÿÿ8¨¯§¸ñ1

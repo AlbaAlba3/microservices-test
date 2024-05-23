@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.alba.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.373 s <<< FAILURE! - in com.alba.productservice.ProductServiceApplicationTests
+com.alba.productservice.ProductServiceApplicationTests  Time elapsed: 1.371 s  <<< ERROR!
+java.lang.IllegalStateException: Could not find a valid Docker environment. Please see logs and check configuration
+
